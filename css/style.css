@@ -71,6 +71,11 @@ figcaption {
   color: red;
 }
 
+/* style media */
+img, video, audio {
+  max-width: 100%;
+}
+
 /* style layout */
 .wrapper {
   width: 960px;
